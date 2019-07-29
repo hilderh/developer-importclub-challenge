@@ -65,7 +65,8 @@ No es obligatorio implementar estas prácticas, pero si lo haces puede darte una
  - Observables
  - Implementar los propios datos mocks por medio de una API propia
  - Lazy Load
- - Buenas practicas como en el diseño como en los estilos
+ - Buenas practicas en git
+ - Buenas practicas tanto como en el diseño como en los estilos
  - Implementar test
  - Angular Lifecycle Hooks
  - Deploy
